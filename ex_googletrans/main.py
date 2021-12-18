@@ -167,7 +167,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "간이 번역기"))
-        MainWindow.setWindowIcon(QIcon('icons/google-logo.png'))
+        MainWindow.setWindowIcon(QIcon('google-logo.png'))
         self.btn1.setText(_translate("MainWindow", "번역!!!"))
         self.btn2.setText(_translate("MainWindow", "지우기"))
         self.result_label.setText(_translate("MainWindow", "번 역 기"))

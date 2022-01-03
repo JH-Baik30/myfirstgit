@@ -1,3 +1,8 @@
+'''
+feat. 김플 스튜디오
+https://www.youtube.com/watch?v=fcs3_bJf5rw
+https://kimflstudio.tistory.com/
+'''
 import urllib.request
 from bs4 import BeautifulSoup
 import csv
